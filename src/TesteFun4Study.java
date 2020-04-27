@@ -41,7 +41,7 @@ public class TesteFun4Study {
         System.out.println("UF: ");
             cidade1.setUf(sc.nextLine());
 
-        cidade3.quantidadeDeAlunosSomatorio();
+        cidade3.adicionaNovoEstudante();
 
         System.out.println("INSIRA A SENHA ANTIGA: ");
             novaSenhaA0 = sc.nextLine();
@@ -82,7 +82,7 @@ public class TesteFun4Study {
         System.out.println("UF: ");
             cidade2.setUf(sc.nextLine());
 
-        cidade3.quantidadeDeAlunosSomatorio();
+        cidade3.adicionaNovoEstudante();
 
         System.out.println("INSIRA A SENHA ANTIGA: ");
         novaSenhaB0 = sc.nextLine();

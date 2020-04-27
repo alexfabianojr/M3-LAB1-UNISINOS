@@ -24,7 +24,7 @@ public class Cidade {
         System.out.println("UF: " + uf);
     }
 
-    public void quantidadeDeAlunosSomatorio() {
+    public void adicionaNovoEstudante() {
         quantidadeDeAlunos += 1;
     }
 
